@@ -1,15 +1,15 @@
-package XOR;
+package PrimeraEv.XOR;
 
 public class xor {
 
     public int exactlyOneThree (int x, int y){
 
-      /*  if (x==3 && y!=3 || x!=3 && y==3 ) //XOR enrevesado
+      /*  if (x==3 && y!=3 || x!=3 && y==3 ) //PrimeraEv.XOR enrevesado
             return 1;
         else
             return 0;
        */
-        if (x==3 ^ y==3 ) //SHIFT + ^ + Space // XOR fácil
+        if (x==3 ^ y==3 ) //SHIFT + ^ + Space // PrimeraEv.XOR fácil
             return 1;
         else
             return 0;
