@@ -29,13 +29,13 @@ public class Main {
                 menor = nota;
             }
         }
+
         System.out.println("La diferencia es: " + (mayor - menor));
     }
     public static void main(String[] args) {
         Main ejemplo = new Main();
         args = new String[1];
         args [0] = "5";
-
 // Averigua cómo introducir un número en args[0] desde eclipse
         int elementos = Integer.parseInt(args[0]);
         System.out.println("Dime la cantidad de alumnos: " + elementos);
