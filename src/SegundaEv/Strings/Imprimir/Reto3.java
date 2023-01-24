@@ -18,7 +18,7 @@ public class Reto3 {
 
         if (s.length()>2) {
 
-            return s.substring(0, -3)+s.substring(s.length()-3).toUpperCase();
+            return s.substring(0, 3)+s.substring(s.length()-3).toUpperCase();
         }
         return s.toUpperCase();
     }
