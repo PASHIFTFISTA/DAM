@@ -1,0 +1,11 @@
+Arraylist forman parte de las colecciones de datos de tipo List
+
+
+
+
+En los Arraylist no se pueden usar tipos bàsicos, se tienen que usar envoltorios [Integer, String, etc.]
+
+
+metodos para ArrayList:
+                        -.get   para obtener
+                        -.set   para introducir
