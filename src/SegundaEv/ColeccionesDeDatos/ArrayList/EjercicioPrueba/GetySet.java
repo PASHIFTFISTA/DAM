@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class GetySet {
 
     public static void main(String[] args) {
-        ArrayList<String> miColeccion = new ArrayList<String>();
+        ArrayList<String> miColeccion = new ArrayList<>();
         miColeccion.add("Collection");
         miColeccion.add("List");
         miColeccion.add("Set");
@@ -18,8 +18,6 @@ public class GetySet {
         miColeccion.set(2, miColeccion.get(1));
         miColeccion.set(1,aux);
         */
-
-
         //Metodo mejor.
         miColeccion.add(miColeccion.remove(0));
 
