@@ -1,4 +1,4 @@
-package SegundaEv.ColeccionesDeDatos.List.LinkedList.Queue;
+package SegundaEv.ColeccionesDeDatos.List.QueueList;
 
 import java.util.LinkedList;
 

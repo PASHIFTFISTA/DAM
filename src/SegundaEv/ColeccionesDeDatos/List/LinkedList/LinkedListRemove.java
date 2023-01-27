@@ -1,4 +1,4 @@
-package SegundaEv.ColeccionesDeDatos.List.LinkedList.LListRemove;
+package SegundaEv.ColeccionesDeDatos.List.LinkedList;
 
 import java.util.LinkedList;
 

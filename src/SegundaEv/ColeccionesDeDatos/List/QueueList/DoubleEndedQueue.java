@@ -1,4 +1,4 @@
-package SegundaEv.ColeccionesDeDatos.List.LinkedList.DoubleEndedQueue;
+package SegundaEv.ColeccionesDeDatos.List.QueueList;
 
 import java.util.ArrayDeque;
 

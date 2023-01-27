@@ -11,12 +11,11 @@ public class TareaDeTurnoBuscaminas {
         Scanner in = new Scanner(System.in);
 
         String filas = in.nextLine();
-
         String columnas = in.nextLine();
-
 
         buscaMinas = new Character[Integer.parseInt(filas)][Integer.parseInt(columnas)];
         String minasOvidas;
+
         for (int i = 0; i < Integer.parseInt(columnas); i++) {
 
             minasOvidas=in.nextLine();
@@ -27,5 +26,6 @@ public class TareaDeTurnoBuscaminas {
             }
             System.out.println(Arrays.deepToString(buscaMinas));
         }
+
     }
 }
