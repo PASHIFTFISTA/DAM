@@ -13,7 +13,7 @@ public class RemoveRetainAll {
         //Por aquí tu instrucción
 
         //Tambien se puede usar removeAll
-        conjuntoN.retainAll(conjuntoB);
+
 
         //Conjunto resultante
         System.out.print("Conjunto Intersección:"+conjuntoN);
