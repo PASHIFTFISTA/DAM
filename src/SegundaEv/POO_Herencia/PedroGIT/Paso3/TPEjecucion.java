@@ -15,7 +15,7 @@ public class TPEjecucion extends TareaPeriodica {
 	// Método redefinido
 	public void ejecutarTarea() {
 		try {
-			Runtime.getRuntime().exec(cmd);
+			Runtime.getRuntime().exec(cmd, null, null);
 		}
 		catch(IOException e) {
 			System.out.println("Imposible ejecutar comando: "+ cmd);

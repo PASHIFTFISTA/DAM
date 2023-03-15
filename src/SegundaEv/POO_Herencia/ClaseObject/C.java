@@ -17,4 +17,10 @@ public class C extends B {
         super.disparar();
 
     }
+
+
+    public void metodoReferenciado (){
+
+        super.methodA();
+    }
 }

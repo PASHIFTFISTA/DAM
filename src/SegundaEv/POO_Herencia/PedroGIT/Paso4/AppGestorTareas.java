@@ -13,5 +13,9 @@ public class AppGestorTareas {
 			System.out.println("Esperando ejecución de comando...");
 		tpe.ejecutarTarea();
 
+
+
 	}
+
+
 }

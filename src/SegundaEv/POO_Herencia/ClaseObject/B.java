@@ -15,5 +15,10 @@ public class B  extends A {
         System.out.println("Puuum");
     }
 
+    public void methodA (){
+
+
+    }
+
 
 }

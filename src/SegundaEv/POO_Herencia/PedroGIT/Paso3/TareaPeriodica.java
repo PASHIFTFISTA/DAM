@@ -7,6 +7,7 @@ public class TareaPeriodica {
 	protected Date ultimaEj; // Hora de última ejecución
 	protected  boolean activa; // bandera de estado activo/inactivo
 
+
 	// Constructor genérico
 	public TareaPeriodica(int aPeriodoSegs) {
 		periodoSegs = aPeriodoSegs;
